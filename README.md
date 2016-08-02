@@ -3,7 +3,7 @@
 `pf`, `pfctl` helper scripts to help blocking/allowing certain hosts during
 development.
 
-Learn more about `pf` and `pfctl` itself [here](http://www.nomoa.com/bsd/gateway/pf/valid/pfctl.html).
+Learn more about `pf` and `pfctl` [here](http://www.nomoa.com/bsd/gateway/pf/valid/pfctl.html).
 
 ## Usage
 

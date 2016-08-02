@@ -1,0 +1,1 @@
+cat /etc/pf.conf $(if [ -n $1 ]; then find "$(dirname $(readlink -f "$0"))/block" -type f -name "*$1*.conf"; fi) |  sudo pfctl -f -
